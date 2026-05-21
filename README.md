@@ -1,24 +1,30 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu primeiro site</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meu primeiro site</title>
 </head>
 <body>
 
- <h1>Esse e meu site</h1>   
+<h1>Esse e meu site</h1>
+
+<link rel="stylesheet" href="style.css">
+
+
+
+
 <p>Nesse site vou testar html, css e javascript</p>
 <ul>
 
-    <li> <strong>HTML:</strong>Hypertext Markup language - 
-    Linguagem de Marcação de Hipertexto </li>
+<li> <strong>HTML:</strong>Hypertext Markup language -
+Linguagem de Marcação de Hipertexto </li>
 
-    <li> <strong>CSS:</strong> Cascanding Style Sheet: Folha
-    de Estilo em Cascata </li>
+<li> <strong>CSS:</strong> Cascanding Style Sheet: Folha
+de Estilo em Cascata </li>
 
-    <li> <strong>javascript:</strong> Linguagem de 
-    Programação</li>
+<li> <strong>javascript:</strong> Linguagem de
+Programação</li>
 
 
 </ul>
@@ -26,12 +32,12 @@
 
 <div>
 <h3>sobre mim</h3>
-<p>me chamo kauan, sou aluno de 1Ads</p>
-<img src="" alt=""width"300">
+<p>me chamo kauan aluno de 1Ads</p>
+<img src="imgem.png"300">
 </div>
-
 
 
 
 </body>
 </html>
+
